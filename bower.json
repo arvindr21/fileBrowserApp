@@ -1,0 +1,27 @@
+{
+  "name": "myFileBrowserApp",
+  "version": "0.1.0",
+  "authors": [
+    "arvindr21 <arvind.ravulavaru@gmail.com>"
+  ],
+  "description": "An Angularjs, jsTree and Expressjs web based File Browser app",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.23",
+    "angular-route": "~1.2.23",
+    "bootstrap": "~3.2.0",
+    "jstree-directive": "~0.1.0",
+    "jquery": "~2.1.1"
+  }
+}
