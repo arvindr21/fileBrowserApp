@@ -2,7 +2,7 @@
   "name": "myFileBrowserApp",
   "version": "0.1.0",
   "description": "An Angularjs, jsTree and Expressjs web based File Browser app",
-  "main": "app.js",
+  "main": "server/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
