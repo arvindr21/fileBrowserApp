@@ -3,6 +3,9 @@ fileBrowserApp
 
 Building a Web Based File Browser with jsTree, Angularjs and Expressjs
 
+### Demo
+[filebrowserapp.herokuapp.com](http://filebrowserapp.herokuapp.com/)
+
 ### Install
 
 * Download/clone the repo
@@ -11,4 +14,4 @@ Building a Web Based File Browser with jsTree, Angularjs and Expressjs
 
 ### Tutorial 
 
-[Building a Web Based File Browser with jsTree, Angularjs and Expressjs](http://thejackalofjavascript.com/file-browser-with-jstree-angularjs-and-expressjsb)
+[Building a Web Based File Browser with jsTree, Angularjs and Expressjs](http://thejackalofjavascript.com/file-browser-with-jstree-angularjs-and-expressjs)

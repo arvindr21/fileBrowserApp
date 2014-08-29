@@ -5,7 +5,7 @@
     "arvindr21 <arvind.ravulavaru@gmail.com>"
   ],
   "description": "An Angularjs, jsTree and Expressjs web based File Browser app",
-  "main": "app.js",
+  "main": "server/app.js",
   "moduleType": [
     "node"
   ],
