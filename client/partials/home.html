@@ -1,7 +1,12 @@
 <div ng-controller="HomeCtrl">
   <div class="row">
     <div class="col-md-4 tree-browser">
-      <js-tree tree-events="select_node:nodeSelected" tree-ajax="/api/tree"></js-tree>
+      <js-tree 
+      	tree-events="select_node:nodeSelected" 
+      	tree-ajax="/api/tree" 
+      	tree-core="tree_core"
+      	tree-plugins="dnd"
+      ></js-tree>
     </div>
     <div class="col-md-8 file-viewer">
       <pre><code>{{fileViewer}}</pre></code>
